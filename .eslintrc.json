@@ -19,7 +19,8 @@
     "jsx-a11y/alt-text": "off",
     "react/react-in-jsx-scope": "off",
     "react/display-name": "off",
-        "react/no-unknown-property": "off"
+    "react/no-unknown-property": "off",
+    "react/prop-types": "off"
   },
   "settings": {
     "react": {
